@@ -1,0 +1,14 @@
+.team-match-container {
+  background-image: linear-gradient(to bottom, #a4261d, #1e293b);
+  height: 100vh;
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+}
+.team-match-inner-container {
+  width: 90%;
+}
+.banner-image {
+  width: 100%;
+  height: 300px;
+}

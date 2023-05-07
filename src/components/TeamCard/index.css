@@ -1,0 +1,27 @@
+.link-item {
+  text-decoration: none;
+}
+.list-item {
+  list-style-type: none;
+  background-color: #ffffff33;
+  border: 1px solid #475569;
+  border-radius: 5px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 10px;
+  width: 340px;
+  height: 150px;
+  margin: 20px;
+}
+.team-logo {
+  width: 80px;
+}
+.teamcard-heading {
+  font-size: 24px;
+  font-family: 'Bree Serif';
+  font-weight: 600;
+  width: 200px;
+  text-align: center;
+  color: #ffffff;
+}
